@@ -1,4 +1,4 @@
-# Pallas Kernel Demo — Colab v6e-1 (Kernel-Only)
+# Pallas Kernel Demo — Colab v5e-1 (Kernel-Only)
 
 - **Hotspot**: fused RMSNorm + residual add
 - **Hidden size**: 2048 (TinyLlama-equivalent)
